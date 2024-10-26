@@ -42,11 +42,5 @@
 - **Backend Integration**: Connect with a server (e.g., Flask or Node.js) for order processing 📦.
 - **Payment Gateway**: Integrate a payment gateway (e.g., Stripe) for seamless transactions 💳.
 
----
-
-- 📞 **Phone**: +911234567890
-
----
-
 ### 🍰 Made with love by Nidharshana ❤️
 

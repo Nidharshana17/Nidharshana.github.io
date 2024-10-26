@@ -1,5 +1,5 @@
 
-# 🍰 Cake Shoppping Site 🎂
+# 🍰 Cake Shopping Site 🎂
 
 ![image](https://github.com/user-attachments/assets/8883d8c0-95d4-4eb6-9d25-e9e6c3eabbac)
 
